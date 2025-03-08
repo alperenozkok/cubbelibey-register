@@ -1,9 +1,9 @@
-# CubbeliBey Register Botu
+# Discord Register Bot
 
-Botu çalıştırmak için öncelikle `ayarlar-json / cubbelibey.js` kanallarını doldurmanız yeterlidir.
+To run the bot, first fill in the `settings-json/cubbelibey.js` channels.
 
-Çalıştırmadan önce `package.json` içerisindeki modülleri kurmayı unutmayınız.
+Before running it, do not forget to install the modules in `package.json`.
 
-Doldurduktan sonra `baslat.bat` isimli dosyayı çalıştırıp kullanabilirsiniz.
+After filling in, you can run and use the file named `baslat.bat`.
 
-İzinsiz paylaşmak kesinlikle yasaktır. 
+Sharing without permission is strictly prohibited.
